@@ -554,6 +554,30 @@ margin-top: 40px;
         padding-left: 10px;
 
     }
+    .careers{
+        display: flex;
+        flex-direction: column;
+        padding: 0px 20px;
+        margin: 0px;
+    }
+    .text-careers{
+        
+        padding: 0px 20px;
+        text-align: center;
+      
+    
+    }
+    .point-careers{
+        display: flex;
+        flex-direction: column;
+        padding: 0px;
+    }
+    .careers-description{
+        width: 90%;
+    }
+    .img-career img{
+        width: 100%;
+    }
 
 }
 
@@ -658,8 +682,37 @@ TAB TAB TAB TAB TAB TAB RESPONSIVE */
     .section-description{
         text-align: center;
         padding: 15px;
-        margin: 0px;
         width: 100%;
+    }
+    .careers{
+        display: flex;
+        flex-direction: column;
+        padding: 0px 20px;
+        margin: 0px;
+    }
+    .text-careers{
+        
+        padding: 0px 20px 0px 50px;
+        text-align: center;
+      
+    
+    }
+    .careers-description{
+        text-align: center;
+        padding-left: 20px;
+    }
+    .point-careers{
+        display: flex;
+        padding: 0px 50px;
+    }
+    .careers-description{
+        width: 90%;
+    }
+    .img-career img{
+        width: 100%;
+    }
+    .img-career{
+        padding-left: 50px;
     }
 
 }
