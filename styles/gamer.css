@@ -518,3 +518,60 @@ margin-top: 40px;
     }
 
 }
+
+/* dsughfityr8wet 7w8ertf 8we7tf3r7 we8tfy erw87ftg r87ft
+TAB TAB TAB TAB TAB TAB RESPONSIVE */
+@media screen and (min-width: 576px) and (max-width:992px) {
+    .we-are-gamer,
+    nav,
+    .banner-section {
+        padding: 20px;
+    }
+
+    .menu .nav-link {
+        display: flex;
+        gap: 10px;
+    }
+    .menu{
+        display: flex;
+    }
+    nav{
+        display: flex;
+        flex-direction: column;
+    }
+    .game-img{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .Play-section{
+        display: flex;
+        flex-direction: column;
+    }
+    .game-brand{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .banner-section {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .we-are-gamer{
+        display: flex;
+        flex-direction: column;
+    }
+    .text-content, .banner-list, .banner-btn, .content-text-we{
+        text-align: center;
+        justify-content: center;
+    }
+    .section-description{
+        text-align: center;
+    }
+    .text-content {
+        background-image: url(../images/Group\ 14.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;
+        padding-bottom: 60px;
+        padding-top: 0px;
+    }
+}
