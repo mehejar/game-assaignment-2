@@ -231,6 +231,15 @@ nav .menu {
 .game-img img:hover {
     filter: brightness(50%);
 }
+.purpose{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.everyone{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-bottom: 40px;
+}
 
 /* PLay section starts from here */
 .Play-section {
