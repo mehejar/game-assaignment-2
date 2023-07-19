@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;700&family=Lato:wght@400;700&family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;700;800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 240px;
+    align-items: center;
+    background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+}
+
+nav .logo {
+    display: flex;
+    
+}
+
+.nav-link {
+    display: flex;
+    gap: 2rem;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #3C354F;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.menu a h2 {
+    color: #3C354F;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+nav .menu {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.logo h2 {
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
+.logo img {
+    width: 86.041px;
+    height: 40px;
+}
+
+.logo {
+    align-items: center;
+    gap: 20px;
+}
+.follow-us img{
+    width: 33.916px;
+    height: 24px;
+}
+.follow-us{
+    display: flex;
+    align-items: center;
+    gap: 1.6rem;
+    border-radius: 8px;
+background: rgba(11, 2, 35, 0.10);
+padding-left: 1rem;
+padding-right: 1rem;
+}
