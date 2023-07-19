@@ -216,6 +216,11 @@ nav .menu {
 .text-funny {
     text-align: center;
 }
+.img-career img{
+    justify-content: left;
+    margin-right: 0px;
+    padding-right: 0px;
+}
 
 .game-img {
     display: flex;
