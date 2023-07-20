@@ -27,6 +27,7 @@ color: #FF42A5;
 .games:hover{
 border: 1px solid #FF42A5;
 box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+color: #FF42A5;
 }
 
 .nav-link {
@@ -304,6 +305,7 @@ font-weight: 500;
 
 .game-brand {
     display: flex;
+    flex-wrap: wrap;
     background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
     padding: 60px 240px;
     justify-content: center;
@@ -337,6 +339,12 @@ font-weight: 600;
     background-position: left center;
     align-items: center;
     padding: 0px;
+}
+.btn-white{
+    margin-top: 30px;
+    background: white;
+    color: #FF42A5;
+    margin-bottom: 120px;
 }
 .careers-title{
 
@@ -441,6 +449,9 @@ margin-top: 40px;
         text-align: center;
         padding-bottom: 60px;
         padding-top: 0px;
+    }
+    .funny-title{
+        margin-top: 20px;
     }
 
     .text-content .goat {
@@ -608,6 +619,9 @@ TAB TAB TAB TAB TAB TAB RESPONSIVE */
     nav,
     .banner-section {
         padding: 20px;
+    }
+    .funny-title{
+        margin-top: 0px;
     }
     
 
