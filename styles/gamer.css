@@ -221,6 +221,11 @@ nav .menu {
     margin-right: 0px;
     padding-right: 0px;
 }
+.funny-img-title{
+    color: #534C64;
+font-size: 20px;
+font-weight: 500;
+}
 
 .game-img {
     display: flex;
@@ -272,9 +277,10 @@ nav .menu {
     font-size: 1.2rem;
     font-weight: 400;
 }
-/* .img-play .himg{
-    width: 100%;
-} */
+.img-play{
+    padding: 0px;
+    margin: 0px;
+}
 
 /* Game catagory game catagoryppppp */
 .games {
